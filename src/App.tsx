@@ -1,10 +1,10 @@
+import LoginController from "./Login/LoginController"
+
 function App() {
 
   return (
     <>
-      <p>
-          Noel Novo
-        </p>
+      <LoginController/>
     </>
   )
 }
